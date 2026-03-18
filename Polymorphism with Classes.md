@@ -20,6 +20,7 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 4. **Create Objects**:
    - Instantiate `Beans` and `Mango`.
    - Pass them to `func()` and execute the program.
+     
 
 ## 💻 Program
 ```
